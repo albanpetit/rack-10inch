@@ -1,1 +1,22 @@
 .DS_Store
+
+# FreeCAD
+## Backup files (auto-created on save)
+*.FCBak
+*.FCStd1
+*.FCStd2
+*.FCStd3
+*.FCStd4
+*.FCStd5
+*.FCStd6
+*.FCStd7
+*.FCStd8
+*.FCStd9
+## Lock / temp / recovery files
+*.FCStd.lock
+*.lock
+.~lock.*
+*~
+## Python cache from macros
+__pycache__/
+*.pyc
